@@ -5,7 +5,7 @@ C++ Enjoyer
 -----------
 
 *   🌍  I'm based in Czech Republic
-*   ✉️  You can contact me at [CZmisaCZ@teamfortress.cz](mailto:CZmisaCZ@teamfortress.cz)
+*   ✉️  You can contact me at [CZmisaCZ@email.cz](mailto:CZmisaCZ@email.cz)
 *   🧠  I'm currently learning GTK+
 
 ### 💻 Skills 💻
