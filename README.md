@@ -26,9 +26,7 @@ C++ Enjoyer
 <!--START_SECTION:waka-->
 
 ```txt
-Python   43 mins         █████████████████▒░░░░░░░   69.92 %
-HTML     17 mins         ███████▒░░░░░░░░░░░░░░░░░   28.73 %
-Text     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
+Python   43 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
