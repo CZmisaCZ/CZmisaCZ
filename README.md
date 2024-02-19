@@ -26,11 +26,11 @@ C++ Enjoyer
 <!--START_SECTION:waka-->
 
 ```txt
-Python                     2 hrs 20 mins   █████████████████████▓░░░   86.33 %
-Text                       15 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
-Markdown                   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-Batchfile                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Python                     2 hrs 4 mins    ████████████████████░░░░░   79.94 %
+Text                       15 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
+Bash                       9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+Markdown                   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
+Batchfile                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
