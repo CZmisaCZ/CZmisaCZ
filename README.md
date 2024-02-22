@@ -26,11 +26,11 @@ C++ Enjoyer
 <!--START_SECTION:waka-->
 
 ```txt
-Gettext Catalog            2 hrs 7 mins    ███████▒░░░░░░░░░░░░░░░░░   29.00 %
-Python                     1 hr 53 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.74 %
-Bash                       1 hr 10 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
-JSON                       57 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.14 %
-Other                      43 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+Gettext Catalog            2 hrs 7 mins    ██████░░░░░░░░░░░░░░░░░░░   23.68 %
+Bash                       2 hrs 4 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.14 %
+Python                     1 hr 53 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.05 %
+Other                      1 hr 17 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+JSON                       1 hr 8 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.77 %
 ```
 
 <!--END_SECTION:waka-->
