@@ -4,9 +4,9 @@ Hi 👋 My name is Michal
 C++ Enjoyer
 -----------
 
-*   🌍  I'm based in Czech Republic
+*   🌍  I live in Czech Republic
 *   ✉️  You can contact me at [CZmisaCZ@email.cz](mailto:CZmisaCZ@email.cz)
-*   🧠  I'm currently learning GTK+
+*   🧠  I'm currently learning Golang
 
 ### 💻 Skills 💻
 
