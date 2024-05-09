@@ -26,8 +26,7 @@ C++ Enjoyer
 <!--START_SECTION:waka-->
 
 ```txt
-Image (svg)   2 mins          █████████████░░░░░░░░░░░░   52.62 %
-Other         2 mins          ████████████░░░░░░░░░░░░░   47.38 %
+Other   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
