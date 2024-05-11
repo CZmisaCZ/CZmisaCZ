@@ -26,7 +26,8 @@ C++ Enjoyer
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   9 mins          ██████████████████████▒░░   89.71 %
+Other    1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
 ```
 
 <!--END_SECTION:waka-->
