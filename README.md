@@ -26,11 +26,11 @@ C++ Enjoyer
 <!--START_SECTION:waka-->
 
 ```txt
-HTML                       34 mins         ██████████████▓░░░░░░░░░░   59.26 %
-Other                      11 mins         █████░░░░░░░░░░░░░░░░░░░░   20.43 %
-Python                     9 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.04 %
-JSON                       2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
-Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Other                      50 mins         █████████████░░░░░░░░░░░░   52.53 %
+HTML                       34 mins         █████████░░░░░░░░░░░░░░░░   35.35 %
+Python                     9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.57 %
+JSON                       2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Nginx configuration file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 ```
 
 <!--END_SECTION:waka-->
