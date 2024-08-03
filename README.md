@@ -26,7 +26,11 @@ C++ Enjoyer
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++          21 mins         ███████████████░░░░░░░░░░   60.11 %
+Go           14 mins         █████████▓░░░░░░░░░░░░░░░   39.10 %
+YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+CMake        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
